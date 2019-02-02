@@ -4,7 +4,7 @@ A self-driving car using neural networks in Python 3.6 and [pygame](https://www.
 
 The car casts 5 rays in a cone in front of itself.
 Each frame per ray, the distance to a wall is calculated.
-This distance is fed into the network (2 layers each 10 nodes by default) which classifies if the car needs to (steer left, steer right, don't steer) and if the car needs to (brake,accelerate,neither).
+This distance is fed into the network (2 layers each 10 nodes by default) which classifies if the car needs to (steer left, steer right, don't steer) and if the car needs to (brake, accelerate, neither).
 
 The network is trained based on me playing the game for 5 minutes on a simple level (see image 2.png).
 After training the car is able to easily complete a much more difficult level (see image 1.png).
