@@ -17,7 +17,7 @@ The network is trained based on me playing the game for 5 minutes on a simple le
 After training the car is able to easily complete a much more difficult level (see image 1.png).
 
 
-# You can draw a level youself!
+# You can draw a level yourself!
 
 Just make a 1024x720 image and draw away! The car will see any black pixel (RGB = 0,0,0) as a wall and try to avoid it.
 
