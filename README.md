@@ -4,9 +4,9 @@ A self-driving car using neural networks in Python 3.6 and [pygame](https://www.
 
 run it with:
 ```
-pip install pygame
+>pip install pygame
 
-py -3.6 car.py
+>py -3.6 car.py
 ```
 
 The car casts 5 rays in a cone in front of itself.
