@@ -1,7 +1,5 @@
 # Self-driving-Car-Neural-Network
 
-![alt text](https://github.com/icon48.png "Logo Title Text 1")
-
 A self-driving car using neural networks in Python 3.6 and [pygame](https://www.pygame.org).
 
 The car casts 5 rays in a cone in front of itself.
@@ -20,6 +18,7 @@ It works best to create a circuit type of level, the car may have trouble in wid
 
 If you do make a level, please share it with me. I'd love to see what you can create!
 
+![Image of the selfdriving car in a level](https://github.com/Niels-van-den-Hork/Self-driving-Car-Neural-Network/blob/master/example.png "Image of the selfdriving car in a level")
 
 # File contents
   Code:
